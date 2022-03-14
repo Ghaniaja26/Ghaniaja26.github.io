@@ -45,7 +45,8 @@ https://www.tooplate.com/view/2117-infinite-loop
                   <a class="nav-link tm-nav-link" href="#contact">Contact</a>
               </li>       
               <li class="nav-item">
-                  <a class="nav-link tm nav-link" href="Scrapping1.html" >Data Scrapping 1</a>
+                  <a class="nav-link tm nav-link" href="#tabel" target="_blank">Data Scrapping 1</a>
+          
               </li>  
             </ul>
           </div>        
@@ -144,6 +145,9 @@ https://www.tooplate.com/view/2117-infinite-loop
         </div>
       
     </section>
+
+
+   
     
     <section id="testimonials" class="tm-section-pad-top tm-parallax-2">      
       <div class="container tm-testimonials-content">
@@ -227,6 +231,58 @@ https://www.tooplate.com/view/2117-infinite-loop
             </div>
             
 
+    </section>
+    
+    <section class="tm-section-pad-top" id="tabel">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <br><br><br><br>
+      <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+      <style>h1 {text-align: center;}
+        table {align: center;}
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+          }
+          
+          td, th {
+            border: 1px solid #333333;
+            text-align: left;
+            padding: 8px;
+          }
+          tr:nth-child(odd) {
+            background-color: #ffffff;
+          }
+          tr:nth-child(even) {
+            background-color: #ffffff;
+          }
+          
+      </style>
+      
+      <h1>Artikel republika.co.id Terkini</h1>
+      <div id="headline1_json"></div>
+        <script type="text/javascript">
+          $(function(){
+              //mengambil data dari file json
+              $.get('headline1.json',function(obj){
+                  var str = "<table border=1>";
+                  str +="<tr><td>No</td><td class='tables'>Judul Artikel</td><td class='tables'>Kategori</td><td class='tables'>Waktu Publish</td><td class='tables'>Waktu Scrapping</td></tr>";
+                  $.each(obj,function(n,data){
+                      str +="<tr><td>" + (n+1) + "</td>";
+                      str +="<td>" + data.judul + "</td>";
+                      str +="<td class='tables'>" + data.kategori + "</td>";
+                      str +="<td class='tables'>" + data.waktu_publish + "</td>";
+                      str +="<td class='tables'>" + data.waktu_scraping + "</td></tr>";
+                  });
+                  str +="</table>";
+                  $('#headline1_json').html(str);
+              });
+          });
+      </script>
+      
+      <br>
+      <br>
+      </div>    
     </section>
     
     <script src="js/jquery-1.9.1.min.js"></script>     
