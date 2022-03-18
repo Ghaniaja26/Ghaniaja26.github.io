@@ -1,0 +1,902 @@
+[
+     {
+          "Rating": "99",
+          "No": "1.",
+          "Judul": "Ten Freedom Summers",
+          "Singer": "by Wadada Leo Smith",
+          "Release": "May 22, 2012",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/b7d7ac01ded710609e22f23086fe9c69-98.jpg"
+     },
+     {
+          "Rating": "98",
+          "No": "2.",
+          "Judul": "Fetch the Bolt Cutters",
+          "Singer": "by Fiona Apple",
+          "Release": "April 17, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/3fac9024d9a862da5cb23f87a4853448-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "3.",
+          "Judul": "SMiLE",
+          "Singer": "by Brian Wilson",
+          "Release": "September 28, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/e735bf38ca5df5fbeb5f25c738f124fc-98.jpg"
+     },
+     {
+          "Rating": "97",
+          "No": "4.",
+          "Judul": "Van Lear Rose",
+          "Singer": "by Loretta Lynn",
+          "Release": "April 27, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/c53f80d40f680b29bd0c2fbffa69a812-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "5.",
+          "Judul": "To Pimp A Butterfly",
+          "Singer": "by Kendrick Lamar",
+          "Release": "March 16, 2015",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/323ffc6b09737dc2dbb7d511772466e0-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "6.",
+          "Judul": "Ghosteen",
+          "Singer": "by Nick Cave & the Bad Seeds",
+          "Release": "October 4, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/7070c2a7429b968cb5357f7e222fd7b7-98.jpg"
+     },
+     {
+          "Rating": "96",
+          "No": "7.",
+          "Judul": "Histoire de Melody Nelson",
+          "Singer": "by Serge Gainsbourg",
+          "Release": "March 24, 2009",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/aad13ce0577c8d8a1d19af9c7066fc8e-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "8.",
+          "Judul": "DAMN.",
+          "Singer": "by Kendrick Lamar",
+          "Release": "April 14, 2017",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/413ce2e1200981ad7114c3b04836378a-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "9.",
+          "Judul": "Stankonia",
+          "Singer": "by Outkast",
+          "Release": "October 31, 2000",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/a3556781d32c32679cf702fe517c67c5-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "10.",
+          "Judul": "Rough and Rowdy Ways",
+          "Singer": "by Bob Dylan",
+          "Release": "June 19, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/2750f1d58951e93ecfa71f5c0ef6258d-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "11.",
+          "Judul": "Black Messiah",
+          "Singer": "by D'Angelo",
+          "Release": "December 15, 2014",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/ac6e4af86fb3cf602a737686bc332014-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "12.",
+          "Judul": "Conflict Of Interest",
+          "Singer": "by Ghetts",
+          "Release": "February 19, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/fa7c0f06c906afa821fc713dbc1c2be3-98.jpg"
+     },
+     {
+          "Rating": "95",
+          "No": "13.",
+          "Judul": "Skeleton Tree",
+          "Singer": "by Nick Cave & the Bad Seeds",
+          "Release": "September 9, 2016",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/b93b92cd67e83a3fa4fd2b4c76c3dd61-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "14.",
+          "Judul": "Savane",
+          "Singer": "by Ali Farka Toure",
+          "Release": "July 25, 2006",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/156b9af1e22756b3bb7012fcf006748b-98.jpg"
+     },
+     {
+          "Rating": "94",
+          "No": "15.",
+          "Judul": "My Beautiful Dark Twisted Fantasy",
+          "Singer": "by Kanye West",
+          "Release": "November 22, 2010",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/286dff36d049c2e05fcd9878602c1744-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "16.",
+          "Judul": "Madvillainy",
+          "Singer": "by Madvillain",
+          "Release": "March 23, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/575c7a11d613427e1a6fb256431c5125-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "17.",
+          "Judul": "A Crow Looked at Me",
+          "Singer": "by Mount Eerie",
+          "Release": "March 24, 2017",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/92d7b198066d1163787019683db0ccc0-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "18.",
+          "Judul": "Room 25",
+          "Singer": "by Noname",
+          "Release": "September 14, 2018",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/9d147af8b42ce87058d1e74f3bb7f12d-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "19.",
+          "Judul": "Live At Reading",
+          "Singer": "by Nirvana",
+          "Release": "November 3, 2009",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/ffc562310caf1da3454e8576fb07b337-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "20.",
+          "Judul": "Love And Theft",
+          "Singer": "by Bob Dylan",
+          "Release": "September 11, 2001",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/0/612eb7b85bd251069e400ac6bf075504-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "21.",
+          "Judul": "My Dusty Road",
+          "Singer": "by Woody Guthrie",
+          "Release": "August 25, 2009",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/0/0ad83b76fee592d7b9a195dee9d2c86d-98.jpg"
+     },
+     {
+          "Rating": "93",
+          "No": "22.",
+          "Judul": "On the Impossible Past",
+          "Singer": "by The Menzingers",
+          "Release": "February 21, 2012",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/d853ea0c96c9887711eebb7e789d9be7-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "23.",
+          "Judul": "Prioritise Pleasure",
+          "Singer": "by Self Esteem",
+          "Release": "October 22, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/704830deabe7a1d3bfb33017bd4ef87f-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "24.",
+          "Judul": "Lemonade",
+          "Singer": "by Beyonc\u00e9",
+          "Release": "April 23, 2016",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/db45c5f14e2271eda363d1dcc264f384-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "25.",
+          "Judul": "Ants From Up There",
+          "Singer": "by Black Country, New Road",
+          "Release": "February 4, 2022",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/9c17fee3e23f4595f9a424bbc57f055a-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "26.",
+          "Judul": "Pull Up Some Dust and Sit Down",
+          "Singer": "by Ry Cooder",
+          "Release": "August 29, 2011",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/f755220b23ba511ce307924cee2fd3a8-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "27.",
+          "Judul": "Sunbather",
+          "Singer": "by Deafheaven",
+          "Release": "June 11, 2013",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/e106cdc133e8927e6b874e64d88d37fc-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "28.",
+          "Judul": "Glow On",
+          "Singer": "by Turnstile",
+          "Release": "August 27, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/860dadaf923a9111460ae1558860250c-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "29.",
+          "Judul": "Orphans: Brawlers, Bawlers & Bastards",
+          "Singer": "by Tom Waits",
+          "Release": "November 21, 2006",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/1da6587fa3ad7c246a8ef5d90b1c4322-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "30.",
+          "Judul": "Time Will Die and Love Will Bury It",
+          "Singer": "by Rolo Tomassi",
+          "Release": "March 2, 2018",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/d20504db145208224c4db57ea38fb00f-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "31.",
+          "Judul": "Boy In Da Corner",
+          "Singer": "by Dizzee Rascal",
+          "Release": "January 20, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/47e9315d14ce77d9a13d9d08d6fd3eeb-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "32.",
+          "Judul": "You Want It Darker",
+          "Singer": "by Leonard Cohen",
+          "Release": "October 21, 2016",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/69e15a12aa20c4393b401b9e4b893f45-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "33.",
+          "Judul": "Channel Orange",
+          "Singer": "by Frank Ocean",
+          "Release": "July 17, 2012",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/0/596ec57cefdbf2d2e20b581ea0e1a62e-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "34.",
+          "Judul": "The Satanist",
+          "Singer": "by Behemoth",
+          "Release": "February 4, 2014",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/cb51db3e14bc91d0508d552792d9ab8d-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "35.",
+          "Judul": "Elephant",
+          "Singer": "by The White Stripes",
+          "Release": "April 1, 2003",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/223c579aeebacd78828385379596ac24-98.jpg"
+     },
+     {
+          "Rating": "92",
+          "No": "36.",
+          "Judul": "We're All Alone In This Together",
+          "Singer": "by Dave",
+          "Release": "July 23, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/0/160785fdf9a448e9127b6caae5aa8187-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "37.",
+          "Judul": "Titanic Rising",
+          "Singer": "by Weyes Blood",
+          "Release": "April 5, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/3722fd5bf9be10cd9088e9aa699c3180-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "38.",
+          "Judul": "Carnage",
+          "Singer": "by Nick Cave & Warren Ellis",
+          "Release": "February 25, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/026f4af0c2db9f9871881bede70b9058-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "39.",
+          "Judul": "Melodrama",
+          "Singer": "by Lorde",
+          "Release": "June 16, 2017",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/ec2e1bb028ec6ed6784d06baf9758ee9-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "40.",
+          "Judul": "Speakerboxxx/The Love Below",
+          "Singer": "by Outkast",
+          "Release": "September 23, 2003",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/b0636e23e2f8e5ac9b20601d14491ffb-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "41.",
+          "Judul": "Set My Heart on Fire Immediately",
+          "Singer": "by Perfume Genius",
+          "Release": "May 15, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/1aab12750a57b10ec030003a7aaa7daa-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "42.",
+          "Judul": "Red (Taylor's Version)",
+          "Singer": "by Taylor Swift",
+          "Release": "November 12, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/ad5f67007321fe77df21843bb0565b4f-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "43.",
+          "Judul": "Home, Like Noplace Is There",
+          "Singer": "by The Hotelier",
+          "Release": "February 25, 2014",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/482901ccd6f743f413516f6d85486c59-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "44.",
+          "Judul": "Good Kid, M.A.A.D City",
+          "Singer": "by Kendrick Lamar",
+          "Release": "October 22, 2012",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/0/ea59796eebb9ef428499475c68123c0f-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "45.",
+          "Judul": "A Grand Don't Come For Free",
+          "Singer": "by The Streets",
+          "Release": "May 18, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/91f6d8e68ae16c3fd012cb81fc07bf11-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "46.",
+          "Judul": "The Myth of the Happily Ever After",
+          "Singer": "by Biffy Clyro",
+          "Release": "October 22, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/3f66ba56e8190a1a9f04fb37bdd986e8-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "47.",
+          "Judul": "Canto",
+          "Singer": "by Los Super Seven",
+          "Release": "March 13, 2001",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/6e6100769129b3ddda3a507111efbf2c-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "48.",
+          "Judul": "Grey Area",
+          "Singer": "by Little Simz",
+          "Release": "March 1, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/d29cd45033b1a341554b7196ad3882c5-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "49.",
+          "Judul": "Sex, Death & The Infinite Void",
+          "Singer": "by Creeper",
+          "Release": "July 31, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/17cb4751a6394b268576ee62340eb0ef-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "50.",
+          "Judul": "The ArchAndroid",
+          "Singer": "by Janelle Mon\u00e1e",
+          "Release": "May 18, 2010",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/e374510dc57d6091ae71b0f9959f06ca-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "51.",
+          "Judul": "Gold & Grey",
+          "Singer": "by Baroness",
+          "Release": "June 14, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/5a71297c37555d6cd0277b4233309cc7-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "52.",
+          "Judul": "Blue Weekend",
+          "Singer": "by Wolf Alice",
+          "Release": "June 4, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/32db4d83829bb0694ee4a7d8feaa4328-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "53.",
+          "Judul": "The Guitar Song",
+          "Singer": "by Jamey Johnson",
+          "Release": "September 14, 2010",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/58d40e6e98ce3f23dad976abc482bc85-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "54.",
+          "Judul": "Is This It?",
+          "Singer": "by The Strokes",
+          "Release": "October 9, 2001",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/3acfb6b5c71c1d2b1ead87ceaed555d9-98.jpg"
+     },
+     {
+          "Rating": "91",
+          "No": "55.",
+          "Judul": "We Got It From Here...Thank You 4 Your Service",
+          "Singer": "by A Tribe Called Quest",
+          "Release": "November 11, 2016",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/ae1e1a1e8844d333145dd328a9e2b456-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "56.",
+          "Judul": "From Here We Go Sublime",
+          "Singer": "by The Field",
+          "Release": "April 3, 2007",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/4726cceb249a0fc23361ffc7d30f793d-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "57.",
+          "Judul": "Feeding the Machine",
+          "Singer": "by Binker & Moses",
+          "Release": "February 25, 2022",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/3fd8fbe5a7d2d53d16925db2eab86f42-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "58.",
+          "Judul": "Illinois",
+          "Singer": "by Sufjan Stevens",
+          "Release": "July 5, 2005",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/8cb6b21f173fa38104e1ca93e7f3c270-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "59.",
+          "Judul": "Carrie & Lowell",
+          "Singer": "by Sufjan Stevens",
+          "Release": "March 31, 2015",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/11eb6d49ca3108655c71dba2e134b9b0-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "60.",
+          "Judul": "Jimmy Lee",
+          "Singer": "by Raphael Saadiq",
+          "Release": "August 23, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/3d7fd03633de3b15ed0e13b57fee7efb-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "61.",
+          "Judul": "No Cities to Love",
+          "Singer": "by Sleater-Kinney",
+          "Release": "January 20, 2015",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/d8dfcf2d27bd4a44dea54ba133202014-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "62.",
+          "Judul": "Eve",
+          "Singer": "by Rapsody",
+          "Release": "August 23, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/9d51ea2a6e92ab8aad63ad74df2b244f-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "63.",
+          "Judul": "Punisher",
+          "Singer": "by Phoebe Bridgers",
+          "Release": "June 18, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/ba41b72c83d8ba3656f13110fd1258bc-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "64.",
+          "Judul": "Send Them To Coventry [Mixtape]",
+          "Singer": "by Pa Salieu",
+          "Release": "November 13, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/d1f0f06d69e2d9d7a1d15777766f4074-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "65.",
+          "Judul": "Original Pirate Material",
+          "Singer": "by The Streets",
+          "Release": "October 22, 2002",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/3a7313e7b3f7627e6576c45b0e67cd9a-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "66.",
+          "Judul": "Candi Staton",
+          "Singer": "by Candi Staton",
+          "Release": "February 24, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/1ce84501a518e5cb448415a554785ebc-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "67.",
+          "Judul": "Alice",
+          "Singer": "by Tom Waits",
+          "Release": "May 7, 2002",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/9122acacf5c6e418d3d3a358bcba8131-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "68.",
+          "Judul": "Funeral",
+          "Singer": "by Arcade Fire",
+          "Release": "September 14, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/46008c097743f3005cb83f04147d80a6-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "69.",
+          "Judul": "Holy Hell",
+          "Singer": "by Architects",
+          "Release": "November 9, 2018",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/559522c230022dd82332ed372b8fe1f8-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "70.",
+          "Judul": "London Zoo",
+          "Singer": "by The Bug",
+          "Release": "August 12, 2008",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/1fe30802fbec751032731c198eaa2908-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "71.",
+          "Judul": "Jama Ko",
+          "Singer": "by Bassekou Kouyate & Ngoni Ba",
+          "Release": "April 2, 2013",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/9b96cad1008e64ef0a2034c0d2452006-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "72.",
+          "Judul": "Sir Lucious Left Foot: The Son of Chico Dusty",
+          "Singer": "by Big Boi",
+          "Release": "July 6, 2010",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/2/e3b43034675c8b251d0465c0cf48d45e-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "73.",
+          "Judul": "Psychodrama",
+          "Singer": "by Dave",
+          "Release": "March 8, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/ffcc5bb7ef34ccd906e22bad654d1068-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "74.",
+          "Judul": "Untrue",
+          "Singer": "by Burial",
+          "Release": "November 6, 2007",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/dc284318b0e0247b3d0ec9f1bef12b8c-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "75.",
+          "Judul": "gr\u00e6",
+          "Singer": "by Moses Sumney",
+          "Release": "May 15, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/1b24bc0c793dee6a6693d3477d6fcf39-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "76.",
+          "Judul": "XTRMNTR",
+          "Singer": "by Primal Scream",
+          "Release": "May 2, 2000",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/1f8e12e3d3a1d6f63dcbd6edc293355b-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "77.",
+          "Judul": "Spaces",
+          "Singer": "by Nils Frahm",
+          "Release": "November 19, 2013",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/199b15eca4f2cefb290f2709d44a8c38-98.jpg"
+     },
+     {
+          "Rating": "90",
+          "No": "78.",
+          "Judul": "Z",
+          "Singer": "by My Morning Jacket",
+          "Release": "October 4, 2005",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/69e4f36549fe06dd72b2fe04d062c6b4-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "79.",
+          "Judul": "St. Vincent",
+          "Singer": "by St. Vincent",
+          "Release": "February 25, 2014",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/0fc22b4dcd317d650011a80e0ddec901-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "80.",
+          "Judul": "The Dusk in Us",
+          "Singer": "by Converge",
+          "Release": "November 3, 2017",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/b5c43fcbd50c06f7bffbe1fdccf17c84-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "81.",
+          "Judul": "Like a Rose",
+          "Singer": "by Ashley Monroe",
+          "Release": "March 5, 2013",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/3/7e13349d8991623700b19a51b0d152da-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "82.",
+          "Judul": "RTJ2",
+          "Singer": "by Run the Jewels",
+          "Release": "October 27, 2014",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/7f50a4c084e32eaf7cc7562382baa728-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "83.",
+          "Judul": "Rounds",
+          "Singer": "by Four Tet",
+          "Release": "May 6, 2003",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/b19ada818fc52552ba3b930c4b056935-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "84.",
+          "Judul": "Neon Golden",
+          "Singer": "by The Notwist",
+          "Release": "February 25, 2003",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/857b1e7b5c9e04549fdb66b092fbef79-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "85.",
+          "Judul": "Since I Left You",
+          "Singer": "by The Avalanches",
+          "Release": "November 6, 2001",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/60c586701a7aa57c61aa262ebe31ae55-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "86.",
+          "Judul": "Honey",
+          "Singer": "by Robyn",
+          "Release": "October 26, 2018",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/4/cf2b45d3e59ced7688a7b7ed389ad199-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "87.",
+          "Judul": "Eternity, In Your Arms",
+          "Singer": "by Creeper",
+          "Release": "March 24, 2017",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/9e068f7e4e539b9ede5dffb279dea35c-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "88.",
+          "Judul": "Kiwanuka",
+          "Singer": "by Michael Kiwanuka",
+          "Release": "November 1, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/0/032fa59c3f2a9f1abf78d6ffdae1b325-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "89.",
+          "Judul": "Modern Times",
+          "Singer": "by Bob Dylan",
+          "Release": "August 29, 2006",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/0/90beee3a1aa6851bc289e56370734138-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "90.",
+          "Judul": "LEGACY! LEGACY!",
+          "Singer": "by Jamila Woods",
+          "Release": "May 10, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/8997c802d989e626df6025a79061e677-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "91.",
+          "Judul": "Apex Predator - Easy Meat",
+          "Singer": "by Napalm Death",
+          "Release": "January 27, 2015",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/57d451cd3a2765ba17a089e923493ab1-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "92.",
+          "Judul": "HoboSapiens",
+          "Singer": "by John Cale",
+          "Release": "September 7, 2004",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/6e32efddb190dd2ac236d89d1f209dd1-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "93.",
+          "Judul": "Miss E... So Addictive",
+          "Singer": "by Missy Elliott",
+          "Release": "May 15, 2001",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/22fd5af248a235709497e15175a918ac-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "94.",
+          "Judul": "Bloodmoon: I",
+          "Singer": "by Converge",
+          "Release": "November 19, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/6663ee5ba9800288d2239bdb837ee27e-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "95.",
+          "Judul": "RTJ4",
+          "Singer": "by Run the Jewels",
+          "Release": "June 3, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/1/05bb6633694b165a1ec512ac5f4f9ccf-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "96.",
+          "Judul": "Sawayama",
+          "Singer": "by Rina Sawayama",
+          "Release": "April 17, 2020",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/5/03fa2f48e7537482619037aa9936c1e8-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "97.",
+          "Judul": "Black Origami",
+          "Singer": "by Jlin",
+          "Release": "May 19, 2017",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/7/280ad452d476c44f43914c88ba8664c0-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "98.",
+          "Judul": "Bachelor No. 2 (or, the last remains of the dodo)",
+          "Singer": "by Aimee Mann",
+          "Release": "May 2, 2000",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/8/656d80ae46b3c6a353ceb12f743be020-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "99.",
+          "Judul": "All Mirrors",
+          "Singer": "by Angel Olsen",
+          "Release": "October 4, 2019",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/6/4883add075b39356eb67ff54696e5c05-98.jpg"
+     },
+     {
+          "Rating": "89",
+          "No": "100.",
+          "Judul": "For Those I Love",
+          "Singer": "by For Those I Love",
+          "Release": "March 26, 2021",
+          "waktu_scraping": "2022-03-18 06:43:29",
+          "Image": "https://static.metacritic.com/images/products/music/9/f8e88de34c5bc4089842b35d9db83ac9-98.jpg"
+     }
+]

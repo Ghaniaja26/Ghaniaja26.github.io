@@ -1,0 +1,54 @@
+<section class="tm-section-pad-top" id="whatwedo">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <br><br><br><br>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <style>h1 {text-align: center;}
+      table {align: center;}
+      table {
+          font-family: arial, sans-serif;
+          border-collapse: collapse;
+          width: 100%;
+        }
+        
+        td, th {
+          border: 3px solid #333333;
+          text-align: left;
+          padding: 8px;
+        }
+        tr:nth-child(odd) {
+          background-color: #f3f3f3;
+        }
+        tr:nth-child(even) {
+          background-color: #f3f3f3;
+        }
+        
+    </style>
+    
+    <h1>Top 100 Album Lagu</h1>
+    <div id="AlbumScrapping_json"></div>
+      <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('AlbumScrapping.json',function(obj){
+                var str = "<table border=1>";
+                str +="<tr><td>No</td><td class='tables'>Image<td class='tables'>Rating</td><td class='tables'>Judul</td><td class='tables'>Singer</td><td class='tables'>Release</td><td class='tables'>Waktu Scrapping</tr>";
+                $.each(obj,function(n,data){
+                    str += "<td class='tables'>" + data.No + "</td>";
+                    str += '<td><img src="' + data.Image + '"></td>';
+                    str += "<td class='tables'>" + data.Rating + "</td>";
+                    str += "<td class='tables'>" + data.Judul + "</td>";
+                    str += "<td class='tables'>" + data.Singer + "</td>";
+                    str += "<td class='tables'>" + data.Release + "</td>";
+                    str += "<td class='tables'>" + data.waktu_scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#AlbumScrapping_json').html(str);
+            });
+        });
+    </script>
+    
+    <br>
+    <br>
+    </div>    
+  </section>
+ 
